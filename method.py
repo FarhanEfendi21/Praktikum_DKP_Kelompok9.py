@@ -19,4 +19,3 @@ class metode: #print modal
         while waktu > 0:
             print(waktu)
             waktu -= 1
-    #
